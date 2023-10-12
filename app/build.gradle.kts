@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "cl.daravena.localdatabase"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "cl.daravena.localdatabase"
